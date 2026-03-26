@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "GastosApp - Control de Gastos Diarios",
   description: "Aplicación para el control y seguimiento de gastos diarios",
   icons: {
-    icon: "/icon",
+    icon: "/favicon.ico",
   },
 };
 
